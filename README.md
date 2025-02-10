@@ -1,4 +1,4 @@
-# kevin-project-2
+# kevin-challenge-full-stack-web
 
 ## Project setup
 ```
